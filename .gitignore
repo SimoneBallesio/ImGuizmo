@@ -1,0 +1,13 @@
+# Directories
+/.vs
+/.vscode
+**/Binaries
+**/bin
+**/Build
+**/Assets
+**/.DS_Store
+
+# Files
+**.sln
+**.vcxproj
+**.vcxproj.*
